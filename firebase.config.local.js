@@ -2,7 +2,7 @@
 // This file is for local development only and should not be committed to version control
 
 export default {
-  apiKey: "AIzaSyBqc0HLQyhUP3eY7AnqKUeP1YzLLxt_swo",
+  apiKey: "AIzaSyBqc0HLQyhUP3eY7AnqKUeP1YzLLxt_***",
   authDomain: "temp-web-app-a1960.firebaseapp.com",
   projectId: "temp-web-app-a1960",
   storageBucket: "temp-web-app-a1960.firebasestorage.app",
